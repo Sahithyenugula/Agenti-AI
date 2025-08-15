@@ -1,0 +1,6 @@
+langgraph
+langchain
+langsmith
+python-dotenv
+#langgraph and langchain are used to build and manage various applications and workflows.
+#langsmith is used for tracking and managing the applications and workflows built with langgraph and langchain.
